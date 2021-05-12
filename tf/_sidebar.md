@@ -1,0 +1,8 @@
+- [**TemplFile**](#)
+  - [Why?](/tf/why.md)
+  - [Our team](/tf/team.md)
+- [**Technologies we like to use**](#)
+    - [GlusterFS](/tf/glufs.md)
+    - [Flask](/tf/flask.md)
+    - [Bulma](/tf/bulma.md)
+    - [Bootstrapt](/tf/bootstrapt.md)
